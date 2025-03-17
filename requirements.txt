@@ -1,5 +1,8 @@
 pandas
+numpy
 matplotlib
 seaborn
 faker
 jupyter
+scikit-learn 
+plotly
